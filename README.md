@@ -1,14 +1,15 @@
 **SQL Database Project for Employee Management**
 
-This project involves creating a relational database from scratch, focusing on the management of employee data. It includes data modeling, engineering, and analysis phases to structure, populate, and query a database containing information about employees, departments, salaries, and managerial relationships.
+This project is about building a relational database from the ground up, centered on handling employee-related data. It encompasses the phases of data modeling, engineering, and analysis to organize, fill, and interrogate a database that holds details on employees, their departments, salaries, and managerial connections.
 
 **Project Structure**
 
 *Data Modeling*
 
-Developed an Entity Relationship Diagram (ERD) to visualize the structure of the database and the relationships between tables.
+Created an Entity Relationship Diagram (ERD) to illustrate the database structure and the connections between various tables.
 
 *Data Engineering*
+
 Created SQL schemas for six main tables: Employees, Departments, DepartmentEmployee, DepartmentManager, Salaries, and Titles.
 
 Defined primary keys, foreign keys, data types, and other constraints to ensure data integrity and relationships between tables.
